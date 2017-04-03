@@ -74,6 +74,8 @@ Ak chcete pomôcť preložiť hru do ďalších jazykov, alebo keby ste prispeli
 
 Slovenský preklad hry vznikol so súhlasom jej autorov v réžii Denníka N. Na preklade spolupracovali samotní čitatelia Denníka N: Pepina Artimová, Beáta Beťko, Ivana Chatterjee-Bezecná, Jana Schäfferová, Martina Tomašovičová, Janka Zácsiková a Robert Zymberi.
 
+V slovenskom preklade hry sú použité fotografie od Tomáša Benedikoviča a Vladimíra Šimíčka.
+
 V prípade, že nájdete v hre alebo jej slovenskom preklade chybu, napíšte na filip.struharik@dennikn.sk. Ďakujeme. 
 
 <table>

@@ -217,7 +217,7 @@
   },
   "years": {
     "1993": {
-      "picture": "images/years/brussels.jpeg",
+      "picture": "images/years/bratislava.jpeg",
       "title@en": "The Beginning",
       "title@es": "El Comienzo",
       "title@de": "Der Beginn",
@@ -249,7 +249,7 @@
       "title@sk": "Hra s loptou"
     },
     "1997": {
-      "picture": "images/years/tm.jpeg",
+      "picture": "images/years/panorama.jpeg",
       "title@en": "Cartel",
       "title@es": "Cartel",
       "title@de": "Kartell",
@@ -289,7 +289,7 @@
       "title@sk": "Reklamy"
     },
     "2002": {
-      "picture": "images/years/atomium.jpeg",
+      "picture": "images/years/park.jpeg",
       "title@en": "Game on",
       "title@es": "Jugar",
       "title@de": "Spielstart",
@@ -369,7 +369,7 @@
       "title@sk": "Rodina je na prvom mieste"
     },
     "2012": {
-      "picture": "images/years/pool.jpeg",
+      "picture": "images/years/signs.jpeg",
       "title@en": "Going private",
       "title@es": "Al sector privado",
       "title@de": "Drehtür",
@@ -377,7 +377,7 @@
       "title@sk": "Súkromný sektor"
     },
     "2013": {
-      "picture": "images/years/italy.jpeg",
+      "picture": "images/years/projects.jpeg",
       "title@en": "The last tender",
       "title@es": "La última licitación",
       "title@de": "Letzter Aufruf",
